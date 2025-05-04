@@ -1,2 +1,2 @@
 ./build
-./lib/libobd-cxx.so
+./lib/*.so
