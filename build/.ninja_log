@@ -1,0 +1,12 @@
+# ninja log v6
+2	1414	1746368394064107375	CMakeFiles/obd-cxx.dir/obd2src/ObdSerial.cpp.o	2dd7920208788276
+1	2527	1746368394063107375	CMakeFiles/obd-cxx.dir/obd2src/ObdCommand.cpp.o	91a8511d0dacdcb9
+2	3206	1746368394065635247	CMakeFiles/obd-app.dir/src/main.cpp.o	1d4d0b0bfd04b1cc
+2	3583	1746368394065381744	CMakeFiles/obd-cxx.dir/obd2src/ParseConfig.cpp.o	706111d532df6ba0
+4	132	1746368511938106236	/home/larsl/cpp/cobdsh/lib/libobd-cxx.so	157b3b56cf82411
+3756	3906	1746368397818107339	obd-app	30dfb746dbc4ca2b
+6	2540	1746370211992089813	CMakeFiles/obd-app.dir/src/shell.cpp.o	af40656cb9e699e3
+6	2978	1746370211991089813	CMakeFiles/obd-app.dir/src/main.cpp.o	1d4d0b0bfd04b1cc
+2978	3085	1746370214963089785	obd-app	b899f1daca4f70ea
+5	2844	1746370238463089557	CMakeFiles/obd-app.dir/src/main.cpp.o	1d4d0b0bfd04b1cc
+2844	2952	1746370241301089530	obd-app	b899f1daca4f70ea

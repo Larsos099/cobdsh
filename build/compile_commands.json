@@ -1,0 +1,32 @@
+[
+{
+  "directory": "/home/larsl/cpp/cobdsh/build",
+  "command": "/usr/bin/g++ -Dobd_cxx_EXPORTS -I/home/larsl/cpp/cobdsh/include -g -std=c++11 -fPIC -Wall -Wextra -fPIC -g -o CMakeFiles/obd-cxx.dir/obd2src/ObdCommand.cpp.o -c /home/larsl/cpp/cobdsh/obd2src/ObdCommand.cpp",
+  "file": "/home/larsl/cpp/cobdsh/obd2src/ObdCommand.cpp",
+  "output": "CMakeFiles/obd-cxx.dir/obd2src/ObdCommand.cpp.o"
+},
+{
+  "directory": "/home/larsl/cpp/cobdsh/build",
+  "command": "/usr/bin/g++ -Dobd_cxx_EXPORTS -I/home/larsl/cpp/cobdsh/include -g -std=c++11 -fPIC -Wall -Wextra -fPIC -g -o CMakeFiles/obd-cxx.dir/obd2src/ObdSerial.cpp.o -c /home/larsl/cpp/cobdsh/obd2src/ObdSerial.cpp",
+  "file": "/home/larsl/cpp/cobdsh/obd2src/ObdSerial.cpp",
+  "output": "CMakeFiles/obd-cxx.dir/obd2src/ObdSerial.cpp.o"
+},
+{
+  "directory": "/home/larsl/cpp/cobdsh/build",
+  "command": "/usr/bin/g++ -Dobd_cxx_EXPORTS -I/home/larsl/cpp/cobdsh/include -g -std=c++11 -fPIC -Wall -Wextra -fPIC -g -o CMakeFiles/obd-cxx.dir/obd2src/ParseConfig.cpp.o -c /home/larsl/cpp/cobdsh/obd2src/ParseConfig.cpp",
+  "file": "/home/larsl/cpp/cobdsh/obd2src/ParseConfig.cpp",
+  "output": "CMakeFiles/obd-cxx.dir/obd2src/ParseConfig.cpp.o"
+},
+{
+  "directory": "/home/larsl/cpp/cobdsh/build",
+  "command": "/usr/bin/g++ -I/home/larsl/cpp/cobdsh/include -g -std=c++23 -Wall -Wextra -o CMakeFiles/obd-app.dir/src/main.cpp.o -c /home/larsl/cpp/cobdsh/src/main.cpp",
+  "file": "/home/larsl/cpp/cobdsh/src/main.cpp",
+  "output": "CMakeFiles/obd-app.dir/src/main.cpp.o"
+},
+{
+  "directory": "/home/larsl/cpp/cobdsh/build",
+  "command": "/usr/bin/g++ -I/home/larsl/cpp/cobdsh/include -g -std=c++23 -Wall -Wextra -o CMakeFiles/obd-app.dir/src/shell.cpp.o -c /home/larsl/cpp/cobdsh/src/shell.cpp",
+  "file": "/home/larsl/cpp/cobdsh/src/shell.cpp",
+  "output": "CMakeFiles/obd-app.dir/src/shell.cpp.o"
+}
+]
