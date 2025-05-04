@@ -1,7 +1,0 @@
-{
-	"InstallScripts" : 
-	[
-		"/home/larsl/cpp/cobdsh/build/cmake_install.cmake"
-	],
-	"Parallel" : false
-}

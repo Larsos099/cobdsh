@@ -1,4 +1,0 @@
-/home/larsl/cpp/cobdsh/build/CMakeFiles/obd-cxx.dir
-/home/larsl/cpp/cobdsh/build/CMakeFiles/obd-app.dir
-/home/larsl/cpp/cobdsh/build/CMakeFiles/edit_cache.dir
-/home/larsl/cpp/cobdsh/build/CMakeFiles/rebuild_cache.dir
